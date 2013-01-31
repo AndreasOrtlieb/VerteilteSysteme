@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Jan 30 17:35:46 CET 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-013c-8c50-6c6a-0000006d6908 
+on database directory D:\home\kraus\workspace\ScrumDb  with class loader sun.misc.Launcher$AppClassLoader@3e86d0 
+Loaded from file:/C:/Users/Standart/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_03-b05
+user.dir=D:\Eigene Dateien\Schutz\NetBeansProjects\Verteiltes Projekt
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

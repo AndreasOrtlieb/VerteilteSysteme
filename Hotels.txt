@@ -1,0 +1,4 @@
+1 Adlon 5
+2 Ritz Carlton 4
+3 Hotel Inn 2
+4 Hilton 1
